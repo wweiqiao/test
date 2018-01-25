@@ -1,0 +1,3 @@
+﻿  WindowPains.cpp
+c:\users\大乔\source\repos\windowpains\windowpains\windowpains.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+  WindowPains.vcxproj -> c:\users\大乔\source\repos\WindowPains\Debug\WindowPains.exe
